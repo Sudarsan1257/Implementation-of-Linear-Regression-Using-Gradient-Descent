@@ -65,8 +65,12 @@ print(f"Predicted value: {prediction[0][0]}")
 ```
 
 ## Output:
-<img width="1363" height="604" alt="image" src="https://github.com/user-attachments/assets/87f9606b-15dd-45f8-8f80-3afe545e7033" />
-
+<img width="1228" height="423" alt="Screenshot 2026-01-30 112431" src="https://github.com/user-attachments/assets/0a26f62b-a008-450c-8931-3051055a68e2" />
+<img width="881" height="414" alt="Screenshot 2026-01-30 112442" src="https://github.com/user-attachments/assets/6d7f9c74-e8d4-4c7f-b07b-523f46a74a44" />
+<img width="777" height="399" alt="Screenshot 2026-01-30 112450" src="https://github.com/user-attachments/assets/7053c8a8-fc5e-454e-8c71-60d9f7cda21e" />
+<img width="745" height="423" alt="Screenshot 2026-01-30 112458" src="https://github.com/user-attachments/assets/5b3dd738-960d-4c65-b7b5-95f84824d20e" />
+<img width="802" height="391" alt="Screenshot 2026-01-30 112506" src="https://github.com/user-attachments/assets/88c2002b-4754-4fe2-8ada-dc9bf559cd9b" />
+<img width="617" height="85" alt="Screenshot 2026-01-30 112510" src="https://github.com/user-attachments/assets/ac0c51a4-050a-47ca-9563-b10e503575b6" />
 
 
 ## Result:
